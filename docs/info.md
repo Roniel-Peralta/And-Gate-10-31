@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+LED turns on when both input 0 and input 1 are on.
 
 ## How to test
 
-Explain how to use your project
+Test each combination of input 0 and input 1
 
 ## External hardware
 
